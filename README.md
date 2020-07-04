@@ -19,4 +19,4 @@ npm start
 npm run build
 ```
 
-## [Live Demo Link](https://pig-game-plum.vercel.app/)
+## [Live Demo Link](https://breaking-bad-api-omega.vercel.app/)
