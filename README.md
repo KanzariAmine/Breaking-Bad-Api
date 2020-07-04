@@ -12,7 +12,7 @@
 # Install dependencies
 npm install
 
-# Serve run on localhost:3000
+# Run App
 npm start
 
 # Build for production
